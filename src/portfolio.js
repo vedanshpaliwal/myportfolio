@@ -379,11 +379,11 @@ const experience = {
           company: "Internshala",
           company_url: "https://www.microsoft.com/",
           logo_path: "internshala.png",
-          duration: "Aug 2019 - May 2020",
+          duration: "Sept 2021 - Oct 2021",
           location: "Remote",
           description:
             "Internshala Student Partner program where you get to empower your peers to meet their professional goals, while you develop essential skills like leadership, communication, and marketing.Under this Program  i helped  the peers in order to make the best use of Internshala.",
-          color: "#D83B01",
+          color: "#D83F02",
         },
         {
           title: "Student Technical And Innovation Club Member",
