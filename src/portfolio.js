@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://drive.google.com/file/d/1cAyt8rXAxdgJ5siTohFwMVlpG2pGdrjn/view?usp=sharing",
   portfolio_repository: "https://github.com/vedanshpaliwal?tab=repositories",
   githubProfile: "https://github.com/vedanshpaliwal",
 };
@@ -307,6 +307,18 @@ const experience = {
       experiences: [
         {
           title: "Web Developer Intern",
+          company: "Descrii.tech",
+          company_url:
+            "https://descrii.tech/",
+          logo_path: "descrii.png",
+          duration: "March 2022 - April 2022",
+          location: "Remote",
+          description:
+            "Worked as a Shopify developer and developed web apps for the ease of Shopify merchants,Worked on Node Js, Mongo DB, Shopify API and Shopify Polaris ",
+          color: "#0071C5",
+        },
+        {
+          title: "Web Developer Intern",
           company: "Koyo Software Solution",
           company_url:
             "https://koyosoftsolutions.web.app/",
@@ -317,12 +329,13 @@ const experience = {
             "I have worked on project of building a web application of lawyer from scratch with reactjs ,materialui, css and vanilla javascript",
           color: "#0071C5",
         },
+
         {
           title: "Graphic Designer",
           company: "STIC",
           company_url: "https://sticmedicaps.org.in/",
           logo_path: "logo.png",
-          duration: "August 2021 - February 2022",
+          duration: "August 2021 - ",
           location: "Remote",
           description:
             "I have worked on project of Banking Website Where i build Frontend with html css and Bootstrap and backend for managing transactions or user data database used is mongodb and backend activities are handled with php",
@@ -349,25 +362,36 @@ const experience = {
       experiences: [
 
         {
-          title: "Binance Campus Ambassador",
+          title: "Binance Campus Builder Program",
           company: "Binance",
           company_url: "https://www.microsoft.com/",
           logo_path: "binance.png",
-          duration: "Aug 2019 - May 2020",
+          duration: "October 2021 - Present",
           location: "Remote",
           description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+            "Binance Campus Builder Program is a program for university students to lead the awareness and use of crypto and decentralized system .Under this program, I have helped the student to learn more about crypto and web 3.0",
           color: "#D83B01",
         },
 
 
+        {
+          title: "Internshala Student Partner",
+          company: "Internshala",
+          company_url: "https://www.microsoft.com/",
+          logo_path: "internshala.png",
+          duration: "Aug 2019 - May 2020",
+          location: "Remote",
+          description:
+            "Internshala Student Partner program where you get to empower your peers to meet their professional goals, while you develop essential skills like leadership, communication, and marketing.Under this Program  i helped  the peers in order to make the best use of Internshala.",
+          color: "#D83B01",
+        },
         {
           title: "Student Technical And Innovation Club Member",
           company: "STIC CLUB",
           company_url:
             "",
           logo_path: "logo.png",
-          duration: "August 2021 - Present",
+          duration: "August 2020 - Present",
           location: "",
           description:
             "We organized various events and webinars in the college and various online competition like coding contest , contentization and some various other programs.",
@@ -400,7 +424,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_vedansh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ReactJs, React Native, NodeJs, and  Cloud Development",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ReactJs, NodeJs, and  Cloud Development",
   },
   blogSection: {
     title: "",
@@ -413,7 +437,7 @@ const contactPageData = {
     subtitle:
       "Kheradiwas ,Pinjarwadi ,Ratlam ,Madhya Pradesh - 457001",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://goo.gl/maps/ueXEagzxi5NHAxG6A",
   },
   phoneSection: {
     title: "Phone Number",

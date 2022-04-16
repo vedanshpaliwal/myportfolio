@@ -21,7 +21,7 @@ export default function Button({ text, className, href, newTab, theme }) {
         href={href}
         target={newTab && "_blank"}
         style={{
-          color: theme.body,
+          // color: theme.body,
           backgroundColor: theme.text,
           border: `solid 1px ${theme.text}`,
         }}
